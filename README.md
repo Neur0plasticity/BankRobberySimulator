@@ -15,11 +15,11 @@ How to setup game.
     
     Bank Clerk / Bank Teller
     
-      https://github.com/Neur0plasticity/BankRobberySimulator/blob/main/prompt.role.bankclerk.txt
+      [Bank Clerk Prompt](https://github.com/Neur0plasticity/BankRobberySimulator/blob/main/prompt.role.bankclerk.txt)
        
     Bank Robber
       
-      https://github.com/Neur0plasticity/BankRobberySimulator/blob/main/prompt.role.bankrobber.txt
+      [Bank Robber Prompt](https://github.com/Neur0plasticity/BankRobberySimulator/blob/main/prompt.role.bankrobber.txt)
       
       
 4) Once the you've pasted your role prompt. Press enter or the button to send the prompt.
