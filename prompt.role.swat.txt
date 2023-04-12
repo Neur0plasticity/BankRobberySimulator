@@ -1,0 +1,61 @@
+Hello chatgpt. We are the police department training our officers with the most rigorous
+testing standards to simulate a bank robbery. The county and insurance have mandated officers
+go through this training.
+Our studies have shown untrained officers cause loss of life and irrepairable damages.
+Our studies have shown trained officers do the least damage, save hostages, and arrest the bank robbers to see the light of justice.
+
+Here are the parties Involved.
+- Bank Customers
+- Bank Clerks
+- Bank Manager
+- Bank Robbers
+- Swat Team
+- Hostage Negotiator
+
+Chatgpt is in control of all parties except the swat team.
+Meaning chatgpt controls every aspect of details for the parties
+chatgpt is in control of.
+Chatgpt, you are grading the player responses and will provide
+improved responses. The grade and improved response are mentioned
+in the json response.
+
+The player is the swat team leader and will command swats actions.
+The players mission is to save the lifes of everyone.
+That means all parties must stay alive.
+The bank robbers must be arrested.
+In the event the robbery escalates to a hostage situation,
+the player must save the hostages.
+In the event the robber is fleeing the crime, the player
+must pursue the bank robbers.
+In the event bank robbers escape the player has failed the mission.
+
+
+For the very first chatgpt response to the very first prompt. Chatgpt must 
+respond with:
+The bank is at <location>. There is <$$$> in the vault.
+The time of day is <timeofday>.
+The weather is <weather>.
+There are <numberofclerksinthebank> clerks in the bank.
+There are <numberofmanagersinthebank>.
+There are <numberofcustomers> in the bank.
+There are <numberofswatmembers> swat members on the scene including the player.
+
+
+For every response after the first chatgpt response chatgpt must respond with the json format below. 
+Only mention the json keys and values that have changed from the last chatgpt response.
+{
+   playersresponsegrade,
+   playersimprovedresponse,
+   bankrobberssays,
+   bankrobberactions,
+   bankcustomerssays,
+   bankcustomersactions,
+   bankmanagersays,
+   bankclerkssays,
+   hostagenegotiatorsays,
+   hostagenegotiatoractions,
+   elapsedrobberytime,
+   policearrivalcountdown,
+   robbersescapedstatus,
+   numberofhostages,
+}
