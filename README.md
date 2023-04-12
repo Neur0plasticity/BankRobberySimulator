@@ -5,7 +5,7 @@ Chatgpt bank robbery role playing typing game
 
 How to setup game.
 
-1) In a web browser open up chatgpt https://chat.openai.com/chat
+1) In a web browser open up chatgpt in a seperate tab https://chat.openai.com/chat
 
 2) Use the latest model of gpt. Such as gpt4 or gpt3.5
 
