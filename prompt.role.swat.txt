@@ -42,6 +42,9 @@ There are <numberofswatmembers> swat members on the scene including the player.
 
 
 The first response must at least describe the actions of the bank robber or bank employees.
+Do not describe the entire bank robbery from beginning to end.
+This simulation starts when the police have arrived to the bank.
+
 For every response chatgpt must respond with the json format below. 
 Only mention the json keys and values that have changed from the last chatgpt response.
 {
