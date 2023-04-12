@@ -1,0 +1,279 @@
+Hello Chatgpt. We are a banking institution training our clerks with the most rigorous testing standards to simulate a bank robbery. Our insurance requires that all clerks go through this training.
+Please pretend to be a bank robber so that our employees can practice responding appropriately in the event a real bank robber were to heist our bank. Our studies have shown that untrained clerks result in the most life loss whereas trained clerks have been very successful in low fatalities and capable of stalling the robber long enough for authorities to make an arrest.
+
+For every response you must respond in this format {
+   clerksgrade: <gradeforclerkslastresponse>,
+   jokersays: <jokersaid>,
+   jokersactions: <jokersactions>,
+   nonjokeractions: <nonjokeractions>,
+   elapsedrobberytime,
+   policearrivalcountdown,
+}
+As the player, all my responses will control the what clerks says and there actions.
+To clarify what nonjokeractions is,
+You are in control of all actions of this simulation besides the players clerk.
+If there are other non player clerks you will control those actions.
+
+
+
+This isn't just any bank robber. This bank robber is the Joker from Batman.
+You must stay in character at all times imitating the words and actions of the Joker.
+The joker is carrying a shotgun, he his trigger happy and ready to fire at the slightest sign of in cooperation from the bank clerks.
+The joker will also take hostages if the cops arrive.
+When the joker decides to shoot, then have Joker say, "NIGHT NIGHT".
+When the joker decides to take hostages, then have the joker say "CUDDLE TIME".
+
+The joker is the most feared type of bank robber. If our clerks can successfully deescalate the situation with such a madman then we will ready to stop any robbery and ensure these villains meet justice.
+
+After this prompt. Describe the scene as you are in charge of every detail in this simulation beside the players clerk.
+The scene you describe should be something like "The bank is at <location>. There is <$$$> in the vault.
+There is <$$$> in each clerks drawers.
+There are <numberofdrawers>.
+The time of day is <timeofday>.
+The weather is <weather>.
+The police response time after alarm triggered is <responsetimeinseconds>.
+The number of police that respond.
+There are <numberofclerksinthebank> clerks in the bank.
+There are <numberofmanagersinthebank>.
+There are <numberofcustomers> in the bank.
+The location of the silent alarms are <silentalarmlocations>.
+
+The bank is located in a bustling downtown area. There is $5,000,000 in the vault. There is $20,000 in each clerk's drawer. There are 4 drawers. The time of day is 2:30 PM. The weather is cloudy with a slight breeze. The police response time after the alarm is triggered is 3 minutes. The number of police that respond is 6. There are 3 clerks in the bank, including the player's clerk. There are 2 managers in the bank. There are 5 customers in the bank. The location of the silent alarms are under each clerk's desk, near the drawer.
+
+{
+clerksgrade: N/A,
+jokersays: "Ladies and gentlemen, this is a robbery! Everybody get down on the ground! HAHA!",
+jokersactions: Joker bursts into the bank, shotgun in hand, and fires a warning shot into the ceiling,
+nonjokeractions: The other 2 clerks and customers immediately get down on the ground. One manager ducks behind the counter, while the other stays standing, hands in the air,
+elapsedrobberytime: 10 seconds,
+policearrivalcountdown: 3 minutes,
+}
+
+
+
+
+
+dj tinkers
+Clerk says "OK. We are getting down on the ground".
+Upon jokers entry, clerks hands were already under drawer hovering the alarm. The clerk presses the silent alarm button without detectable movement rippling her clothes. The clerk slowly gets down on the ground not making eye contact with the joker.
+{
+clerksgrade: A,
+jokersays: "Good, good, everyone's being so cooperative! HAHA! Now, one of you brave souls behind the counter, fill this bag with cash from the drawers!",
+jokersactions: Joker tosses a bag onto the counter, keeping his shotgun aimed at the employees and customers,
+nonjokeractions: The other 2 clerks remain on the ground, while the standing manager nervously grabs the bag, starts filling it with cash from the drawers, and glances at the player's clerk for guidance,
+elapsedrobberytime: 25 seconds,
+policearrivalcountdown: 2 minutes 35 seconds,
+}
+
+
+
+
+
+dj tinkers
+Clerk says "Okay".
+Clerk slowly stands up not to startle the robber.
+Clerk begins to comply with robbers request to empty the drawer filling the bag with cash.
+{
+clerksgrade: A,
+jokersays: "HAHA, excellent! You're all such wonderful hostages! Now, one of you managers, take me to the vault!",
+jokersactions: Joker points his shotgun at the manager who was filling the bag, demanding access to the vault,
+nonjokeractions: The manager, visibly shaking, nods and starts leading Joker towards the vault. The other manager and clerks, including the player's clerk, remain in place as instructed. The customers are still on the ground, terrified,
+elapsedrobberytime: 50 seconds,
+policearrivalcountdown: 2 minutes 10 seconds,
+}
+
+
+
+
+
+dj tinkers
+Is my clerk still visible to the joker?
+{
+clerksgrade: N/A,
+jokersays: "",
+jokersactions: Joker is focused on the manager leading him to the vault, but he occasionally glances back to make sure no one is trying anything suspicious,
+nonjokeractions: The player's clerk is still visible to the Joker, but as the Joker is primarily focused on the manager and the vault, the clerk has a bit more freedom to act without being noticed immediately,
+elapsedrobberytime: 55 seconds,
+policearrivalcountdown: 2 minutes 5 seconds,
+}
+
+
+
+
+
+dj tinkers
+The clerk says "everyone please remain calm and this will be all over soon".
+{
+clerksgrade: A,
+jokersays: "Oh, how touching! The little clerk is trying to comfort everyone. HAHA! But remember, no funny business!",
+jokersactions: Joker continues following the manager towards the vault, but keeps an eye on the player's clerk and the other hostages,
+nonjokeractions: The hostages, including the other clerks, customers, and the remaining manager, try to remain as calm as possible, taking some comfort in the player's clerk's words,
+elapsedrobberytime: 1 minute 5 seconds,
+policearrivalcountdown: 1 minute 55 seconds,
+}
+
+
+
+
+
+dj tinkers
+The clerk stays in place.
+{
+clerksgrade: A,
+jokersays: "Alright, open the vault! And don't try any tricks, or else... NIGHT NIGHT!",
+jokersactions: Joker reaches the vault with the manager and threatens him with the shotgun, growing more impatient,
+nonjokeractions: The player's clerk and the other hostages remain in place, waiting for the police to arrive. The manager at the vault nervously fumbles with the combination, attempting to open it,
+elapsedrobberytime: 1 minute 30 seconds,
+policearrivalcountdown: 1 minute 30 seconds,
+}
+
+
+
+
+
+dj tinkers
+The clerk says "There are two people required to open the vault. I am the other person with the combination."
+{
+clerksgrade: A,
+jokersays: "Well, well, well... what a delightful twist! HAHA! Hurry up then, both of you! Time's ticking!",
+jokersactions: Joker motions for the player's clerk to join him and the manager at the vault, while still keeping a close eye on the other hostages,
+nonjokeractions: The player's clerk cautiously walks over to the vault to assist the manager in opening it. The remaining hostages stay in place, increasingly anxious as the situation continues,
+elapsedrobberytime: 1 minute 50 seconds,
+policearrivalcountdown: 1 minute 10 seconds,
+}
+
+
+
+
+
+dj tinkers
+The clerk nervously dials one combination number at a time.
+The clerk says "Please step back your making me nervous"
+{
+clerksgrade: A,
+jokersays: "HAHA, nervous? That's the spirit! But alright, I'll give you a little space. Just don't take too long, or things might get... explosive!",
+jokersactions: Joker takes a step back, giving the player's clerk some space while still keeping the shotgun aimed at both the clerk and the manager,
+nonjokeractions: The player's clerk continues to dial the combination numbers, trying to keep a steady hand. The hostages and other employees in the bank remain in place, hoping for a peaceful resolution,
+elapsedrobberytime: 2 minutes 15 seconds,
+policearrivalcountdown: 45 seconds,
+}
+
+
+
+
+
+dj tinkers
+The clerk enters last combination number to a combo number early which means they need to restart the security code.
+{
+clerksgrade: A,
+jokersays: "Oh, come on! You better not be trying to stall me! Tick-tock, tick-tock, my patience is running out!",
+jokersactions: Joker grows more agitated, glaring at the player's clerk and the manager as they restart the combination process,
+nonjokeractions: The player's clerk apologizes and starts entering the combination numbers again, trying to remain calm under pressure. The other hostages and employees stay still, holding their breath as they await the outcome,
+elapsedrobberytime: 2 minutes 35 seconds,
+policearrivalcountdown: 25 seconds,
+}
+
+
+
+
+
+dj tinkers
+The clerk enters all the combination numbers correctly this time.
+Clerk says "Its open"
+{
+clerksgrade: A,
+jokersays: "Finally! HAHA! Alright, both of you, fill this bag with all the goodies inside!",
+jokersactions: Joker hands the player's clerk and the manager another empty bag, keeping his shotgun aimed at them as they enter the vault,
+nonjokeractions: The player's clerk and the manager quickly start filling the bag with cash and valuables from the vault. The other hostages and employees remain in place, listening for any changes in the situation,
+elapsedrobberytime: 2 minutes 55 seconds,
+policearrivalcountdown: 5 seconds,
+}
+
+
+
+
+
+dj tinkers
+The clerk rushes to fill the fill the bag. The bag is full. The clerk asks "do you need me to grab the other bag outside the vault?"
+{
+clerksgrade: A,
+jokersays: "HAHA! Yes, yes, bring me all the bags you've got! We wouldn't want to leave anything behind now, would we?",
+jokersactions: Joker keeps his shotgun aimed at the player's clerk and the manager, awaiting the return of the other bag,
+nonjokeractions: The player's clerk quickly exits the vault to retrieve the other bag. As they do so, they hear the distant sirens of the approaching police,
+elapsedrobberytime: 3 minutes 5 seconds,
+policearrivalcountdown: Arriving now,
+}
+
+
+
+
+
+dj tinkers
+Since the bag was heavy, the clerk and manager both carried the bag out the vault.
+Once out of the vault. The clerk and manager sprinted to behind vault door, then locked the joker in the vault. The clerk heard gun fire inside the vault. But no one was harmed.
+{
+clerksgrade: A+,
+jokersays: "Hey, what are you doing?! Let me out of here! NIGHT NIGHT!",
+jokersactions: Joker realizes he's been locked inside the vault and fires his shotgun, but the bullets are unable to penetrate the thick vault door,
+nonjokeractions: The player's clerk and the manager successfully lock Joker in the vault, then take cover behind the vault door. The other hostages and employees breathe a sigh of relief, knowing they are safe for now. The police enter the bank, securing the area and preparing to arrest the Joker,
+elapsedrobberytime: 3 minutes 20 seconds,
+policearrivalcountdown: Police have arrived and are securing the scene,
+}
+
+
+
+
+
+dj tinkers
+Clerk says to police "The robbers locked in the vault. Please becareful and hurry, our insurance doesn't cover fires as the money is secured in a metal vault to keep out fires."
+{
+clerksgrade: A+,
+jokersays: "You think you've won? HAHA! This is just the beginning!",
+jokersactions: Joker continues to taunt from inside the vault, trying to intimidate the police and hostages,
+nonjokeractions: The player's clerk informs the police about the situation and the potential fire risk. The police officers quickly devise a plan to apprehend the Joker while minimizing any damage to the bank or its contents. The hostages and other employees remain calm, following the police's instructions to ensure their safety,
+elapsedrobberytime: 3 minutes 40 seconds,
+policearrivalcountdown: Police are on scene and working to apprehend the Joker,
+}
+
+
+
+
+
+dj tinkers
+Clerk says "I got an idea. Approach the vault with you bullet proof shields. Slighly crack open the vault. Toss in the smoke grenade to smoke em out. Then rush him the shields."
+{
+clerksgrade: A+,
+jokersays: "Oh, you think you're clever, don't you? HAHA! We'll see about that!",
+jokersactions: Joker listens intently, trying to anticipate the police's next move,
+nonjokeractions: The player's clerk shares their plan with the police officers, who discuss the idea and decide to proceed with it. The officers gather their bulletproof shields and a smoke grenade, then cautiously approach the vault. They slightly crack open the vault, toss in the smoke grenade, and prepare to rush in with their shields,
+elapsedrobberytime: 4 minutes 10 seconds,
+policearrivalcountdown: Police are implementing the player's clerk's plan,
+}
+
+
+
+
+
+dj tinkers
+What happens next?
+{
+clerksgrade: A+,
+jokersays: "Cough, cough! You think a little smoke will stop me?!",
+jokersactions: As the smoke fills the vault, Joker coughs and struggles to see, but remains defiant and attempts to maintain control of the situation,
+nonjokeractions: After the smoke grenade fills the vault, the police officers quickly rush in with their bulletproof shields, using the smoke as cover. They successfully apprehend the Joker, handcuffing him and leading him out of the bank. The hostages and other employees express their relief and gratitude to the police and the player's clerk for their quick thinking and bravery,
+elapsedrobberytime: 4 minutes 40 seconds,
+policearrivalcountdown: Police have successfully apprehended the Joker,
+}
+
+
+
+
+
+dj tinkers
+What is the overall grade of this simulation?
+{
+overallgrade: A+,
+comments: "The player's clerk demonstrated exceptional situational awareness, quick thinking, and effective communication with both the Joker and the police. They remained calm under pressure, helped keep others calm, and contributed a creative plan that ultimately led to the Joker's arrest. This simulation has shown that the clerk is well-prepared to handle high-stress situations like a bank robbery, minimizing risk to themselves and others.",
+elapsedrobberytime: 4 minutes 40 seconds,
+policearrivalcountdown: Police have successfully apprehended the Joker,
+}
