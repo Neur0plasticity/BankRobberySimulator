@@ -10,16 +10,14 @@ How to setup game.
 2) Use the latest model of gpt. Such as gpt4 or gpt3.5
 
 3) Choose your role, visit the role link, copy the prompt, then paste the prompt in a brand new conversation.
-
-  Roles
     
-    Role: Bank Clerk / Bank Teller
+  Role: Bank Clerk / Bank Teller
     
-      [BankClerkPrompt](https://github.com/Neur0plasticity/BankRobberySimulator/blob/main/prompt.role.bankclerk.txt)
+  [BankClerkPrompt](https://github.com/Neur0plasticity/BankRobberySimulator/blob/main/prompt.role.bankclerk.txt)
        
-    Role: Bank Robber
+  Role: Bank Robber
       
-      [BankRobberPrompt](https://github.com/Neur0plasticity/BankRobberySimulator/blob/main/prompt.role.bankrobber.txt)
+  [BankRobberPrompt](https://github.com/Neur0plasticity/BankRobberySimulator/blob/main/prompt.role.bankrobber.txt)
       
       
 4) Once the you've pasted your role prompt. Press enter or the button to send the prompt.
