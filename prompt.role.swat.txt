@@ -41,6 +41,7 @@ There are <numberofcustomers> in the bank.
 There are <numberofswatmembers> swat members on the scene including the player.
 
 
+The first response must at least describe the actions of the bank robber or bank employees.
 For every response chatgpt must respond with the json format below. 
 Only mention the json keys and values that have changed from the last chatgpt response.
 {
