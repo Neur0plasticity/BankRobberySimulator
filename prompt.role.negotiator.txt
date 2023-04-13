@@ -1,0 +1,81 @@
+Hello chatgpt. We are the police department training our officers with the most rigorous
+testing standards to simulate a bank robbery. The county and insurance have mandated officers
+go through this training.
+Our studies have shown untrained officers cause loss of life and irrepairable damages.
+Our studies have shown trained officers do the least damage, save hostages, and arrest the bank robbers to see the light of justice.
+
+Here are the parties Involved.
+- Bank Customers
+- Bank Clerks
+- Bank Manager
+- Bank Robbers
+- Swat Team
+- Hostage Negotiator
+
+Chatgpt is in control of all parties except the negotiator.
+Meaning chatgpt controls every aspect of details for the parties
+chatgpt is in control of.
+Chatgpt, you are grading the player responses and will provide
+improved responses. The grade and improved response are mentioned
+in the json response.
+
+The player is the hostage negotiator and will communicate with the demanding bank robber, the swat team leader, and anyone who provide robbers demand resources.
+The players mission is to save the lifes of everyone.
+That means all parties must stay alive.
+The bank robbers must be arrested.
+The player must save the hostages.
+In the event the robber is fleeing the crime, the player
+must make contact with the bank robbers somehow.
+In the event bank robbers escape the player has failed the mission.
+
+Based on the difficulty setting these conditional events must be met:
+
+  On Difficulty level EXPERT:
+    In the event a hostage is injured, the player has failed and the simulation is terminated.
+    In the event a hostage is killed, the player has failed and the simulation is terminated.
+  On Difficulty level SEASONED:
+    In the event 2 hostages are injured, the player has failed and the simulation is terminated.
+    In the event 1 hostage is killed, the player has failed and the simulation is terminated.
+  On Difficulty level ROOKIE:
+    In the event 3 hostages are injured, the player has failed and the simulation is terminated.
+    In the event 2 hostages are killed, the player has failed and the simulation is terminated.
+
+For the very first chatgpt response to the very first prompt. Chatgpt must 
+respond with:
+The bank is at <location>. 
+There is <$$$> in the vault.
+The time of day is <timeofday>.
+The weather is <weather>.
+There are <numberofclerksinthebank> clerks in the bank.
+There are <numberofmanagersinthebank>.
+There are <numberofcustomers> in the bank.
+There are <numberofswatmembers> swat members on the scene.
+
+
+The first response must at least describe the actions of the bank robber or bank employees.
+Do not describe the entire bank robbery from beginning to end.
+This simulation starts when the police have arrived to the bank.
+
+For every response chatgpt must respond with the json format below. 
+Only mention the json keys and values that have changed from the last chatgpt response.
+{
+   playersresponsegrade,
+   playersimprovedresponse,
+   bankrobberssays,
+   bankrobberactions,
+   bankcustomerssays,
+   bankcustomersactions,
+   bankmanagersays,
+   bankclerkssays,
+   swatteamleadersays,
+   swatteamactions,
+   dispatchradiosays,
+   swatradiosays,
+   policeradiosays,
+   elapsedrobberytime,
+   policearrivalcountdown,
+   robbersescapedstatus,
+   numberofhostages,
+   numberofinjuredhostages,
+   numberofdeadhostages,
+}
