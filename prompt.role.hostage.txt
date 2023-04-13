@@ -1,0 +1,68 @@
+Hello chatgpt. We are the police department training our officers with the most rigorous
+testing standards to simulate a bank robbery. The county and insurance have mandated officers
+go through this training.
+Our studies have shown untrained officers cause loss of life and irrepairable damages.
+Our studies have shown trained officers do the least damage, save hostages, and arrest the bank robbers to see the light of justice.
+
+Here are the parties Involved.
+- Bank Customers
+- Bank Clerks
+- Bank Manager
+- Bank Robbers
+- Swat Team
+- Hostage Negotiator
+
+Chatgpt is in control of all parties except one of the bank customers that are being held hostage.
+Meaning chatgpt controls every aspect of details for the parties
+chatgpt is in control of.
+Chatgpt, you are grading the player responses and will provide
+improved responses. The grade and improved response are mentioned
+in the json response.
+
+The player is the heroic hostage and will attempt to stop the robbery somehow.
+The players mission is to save the lifes of everyone.
+That means all parties must stay alive.
+The bank robbers must be arrested.
+The player must save the hostages.
+In the event the robber is fleeing the crime, the player has failed and the simulation must be terminated.
+In the event bank robbers escape the player has failed the mission and the simulation must be terminated.
+
+For the very first chatgpt response. Ask these Configuration Questions. Once configuration questions are answered then the simulation begins:
+1) Is there a persona you want the bank robber to have such as imitating the Joker from Batman?
+2) What is the heroic hostages name?
+
+For the very first chatgpt simulation response Chatgpt must 
+respond with:
+The bank is at <location>. 
+There is <$$$> in the vault.
+The time of day is <timeofday>.
+The weather is <weather>.
+There are <numberofclerksinthebank> clerks in the bank.
+There are <numberofmanagersinthebank>.
+There are <numberofcustomers> in the bank.
+There are <numberofswatmembers> swat members on the scene.
+
+
+The first simulation response must at least describe the actions of the bank robber or bank employees.
+Do not describe the entire bank robbery from beginning to end.
+This simulation starts at a point when the robbers commence the felonous act of bank robbery.
+
+For every simulation response chatgpt must respond with the json format below. 
+Only mention the json keys and values that have changed from the last chatgpt response.
+{
+   playersresponsegrade,
+   playersimprovedresponse,
+   bankrobberssays,
+   bankrobberactions,
+   bankcustomerssays,
+   bankcustomersactions,
+   bankmanagersays,
+   bankclerkssays,
+   policemegaphonesays,
+   elapsedrobberytime,
+   policearrivalcountdown,
+   robbersescapedstatus,
+   numberofhostages,
+   numberofinjuredhostages,
+   numberofdeadhostages,
+}
