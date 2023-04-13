@@ -19,7 +19,7 @@ How to setup game.
   
   Role: Hostage Negotiator [NegotiatorPrompt](https://github.com/Neur0plasticity/BankRobberySimulator/blob/main/prompt.role.negotiator.txt)
   
-  Role: (NOT PROGRAMMED) Heroic Hostage [HostagePrompt](https://github.com/Neur0plasticity/BankRobberySimulator/blob/main/prompt.role.hostage.txt)
+  Role: Heroic Hostage [HostagePrompt](https://github.com/Neur0plasticity/BankRobberySimulator/blob/main/prompt.role.hostage.txt)
       
       
 4) Once the you've pasted your role prompt in chatgpt conversation. Press enter or the button to send the prompt.
