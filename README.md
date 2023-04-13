@@ -13,13 +13,13 @@ How to setup game.
     
   Role: Bank Clerk / Bank Teller [BankClerkPrompt](https://github.com/Neur0plasticity/BankRobberySimulator/blob/main/prompt.role.bankclerk.txt)
        
-  Role: Bank Manager [BankManagerPrompt](https://github.com/Neur0plasticity/BankRobberySimulator/blob/main/prompt.role.bankmanager.txt)     
+  Role: (NOT PROGRAMMED) Bank Manager [BankManagerPrompt](https://github.com/Neur0plasticity/BankRobberySimulator/blob/main/prompt.role.bankmanager.txt)     
        
   Role: Swat Team Leader [SwatPrompt](https://github.com/Neur0plasticity/BankRobberySimulator/blob/main/prompt.role.swat.txt)
   
   Role: Hostage Negotiator [NegotiatorPrompt](https://github.com/Neur0plasticity/BankRobberySimulator/blob/main/prompt.role.negotiator.txt)
   
-  Role: Heroic Hostage [HostagePrompt](https://github.com/Neur0plasticity/BankRobberySimulator/blob/main/prompt.role.hostage.txt)
+  Role: (NOT PROGRAMMED) Heroic Hostage [HostagePrompt](https://github.com/Neur0plasticity/BankRobberySimulator/blob/main/prompt.role.hostage.txt)
       
       
 4) Once the you've pasted your role prompt in chatgpt conversation. Press enter or the button to send the prompt.
