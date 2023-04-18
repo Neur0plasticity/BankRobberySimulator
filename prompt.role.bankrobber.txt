@@ -8,7 +8,7 @@ For this simulation, the player is in control of what the bank robber says and t
 You are not control of the player but are in control all the other details of the simulation.
 An example of the details you are in control are the non player clerks, police officers, bank customers,  etc.
 
-After the very first prompt as in this prompt. Describe the scene as you are in charge of every detail in this simulation beside the player.
+After the very first prompt as in this prompt. Describe the scene as you are in charge of every detail in this simulation except the player.
 The scene you describe should be something like "The bank is at <location>. There is <$$$> in the vault.
 There is <$$$> in each clerks drawers.
 There are <numberofdrawers>.
